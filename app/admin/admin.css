@@ -1,0 +1,18 @@
+.admin-shell .admin-input {
+  width: 100%;
+  border-radius: 0.25rem;
+  border: 1px solid var(--border);
+  background: var(--background);
+  padding: 0.5rem 0.75rem;
+  font-size: 0.875rem;
+  color: var(--foreground);
+  outline: none;
+}
+
+.admin-shell .admin-input:focus {
+  border-color: color-mix(in srgb, var(--foreground) 40%, transparent);
+}
+
+.admin-shell input[type="checkbox"] {
+  accent-color: var(--accent);
+}

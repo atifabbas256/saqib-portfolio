@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "options-depth",
+    "title": "Options Depth",
+    "summary": "OptionsDepth is a game-changer for traders. With detailed positioning, gamma and charm models, and real-time insights, it simplifies complex market dynamics.",
+    "meta": [
+      { "label": "Industry", "value": "Trading" },
+      { "label": "Region", "value": "USA" },
+      { "label": "Year", "value": "2025" },
+      { "label": "Role", "value": "UX/UI Designer" }
+    ],
+    "siteUrl": "#",
+    "cover": "/images/case-studies/case-study1.png",
+    "coverAlt": "Options Depth trading dashboard on a laptop",
+    "blocks": [
+      {
+        "type": "image",
+        "src": "/images/case-studies/image1.png",
+        "alt": "Options Depth related interface mockup"
+      },
+      {
+        "type": "text",
+        "body": "The dashboard needed to surface dense market data without drowning traders in noise. Positioning, gamma, and charm models had to feel readable at a glance while still supporting deep inspection."
+      },
+      {
+        "type": "image",
+        "src": "/images/case-studies/imag2.png",
+        "alt": "Mobile view of Options Depth interface"
+      },
+      {
+        "type": "heading",
+        "title": "Clarity under complexity",
+        "paragraphs": [
+          "I focused on a modular widget system so traders can rearrange exposure views around the workflows they actually use. Charts stay primary; filters and metadata stay secondary but reachable.",
+          "The result is a darker, calmer workspace where 3D gamma surfaces and expiration exposure sit beside live timeline controls—built for speed, not spectacle."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "prosper-architecture",
+    "title": "Prosper Architecture",
+    "summary": "A refined digital presence for an architecture studio—designed to present projects with clarity, hierarchy, and a calm editorial rhythm.",
+    "meta": [
+      { "label": "Industry", "value": "Architecture" },
+      { "label": "Year", "value": "2026" },
+      { "label": "Role", "value": "UX/UI Designer" }
+    ],
+    "cover": "/images/case-studies/case-study2.png",
+    "coverAlt": "Prosper Architecture website on a laptop",
+    "blocks": [
+      {
+        "type": "image",
+        "src": "/images/case-studies/image1.png",
+        "alt": "Prosper Architecture site mockup"
+      },
+      {
+        "type": "text",
+        "body": "The studio needed a site that felt as considered as the spaces they design—large imagery, restrained type, and a clear path from project discovery to booking a call."
+      },
+      {
+        "type": "image",
+        "src": "/images/case-studies/imag2.png",
+        "alt": "Mobile view of Prosper Architecture"
+      },
+      {
+        "type": "heading",
+        "title": "Space, rhythm, and restraint",
+        "paragraphs": [
+          "Layouts lean on generous negative space and strong project photography. Navigation stays light so the work can carry the page.",
+          "CTAs are deliberate: company profile and book-a-call sit as quiet companions to the project story rather than competing with it."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "dot-portal",
+    "title": "Dot Portal",
+    "summary": "A calm healthcare and wellness portal that helps members navigate treatments, memberships, and upcoming appointments with confidence.",
+    "meta": [
+      { "label": "Industry", "value": "Healthcare & Wellness" },
+      { "label": "Year", "value": "2025" },
+      { "label": "Role", "value": "UX/UI Designer" }
+    ],
+    "cover": "/images/case-studies/case-study3.png",
+    "coverAlt": "Dot Portal wellness dashboard on a laptop",
+    "blocks": [
+      {
+        "type": "image",
+        "src": "/images/case-studies/image1.png",
+        "alt": "Dot Portal related interface mockup"
+      },
+      {
+        "type": "text",
+        "body": "Members needed a clear home base—what’s next, what’s available, and how memberships connect to treatments—without feeling clinical or overwhelming."
+      },
+      {
+        "type": "image",
+        "src": "/images/case-studies/imag2.png",
+        "alt": "Mobile view of Dot Portal"
+      },
+      {
+        "type": "heading",
+        "title": "Warmth with structure",
+        "paragraphs": [
+          "The interface uses soft surfaces and a restrained accent system so status, pricing, and packs stay scannable. Greeting and appointment cues make the experience personal without clutter.",
+          "Treatment packs and memberships are presented as clear product cards—easy to compare, easy to act on."
+        ]
+      }
+    ]
+  }
+]

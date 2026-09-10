@@ -1,0 +1,132 @@
+[
+  {
+    "id": "options-depth",
+    "name": "Options Depth",
+    "meta": "Trading",
+    "year": "2025",
+    "image": "/images/case-studies/case-study1.png",
+    "category": "case-study",
+    "aspect": "346 / 260",
+    "href": "/work/options-depth"
+  },
+  {
+    "id": "prosper-architecture",
+    "name": "Prosper Architecture",
+    "meta": "Architecture",
+    "year": "2026",
+    "image": "/images/case-studies/case-study2.png",
+    "category": "case-study",
+    "aspect": "346 / 259",
+    "href": "/work/prosper-architecture"
+  },
+  {
+    "id": "dot-portal",
+    "name": "Dot Portal",
+    "meta": "Healthcare & Wellness",
+    "year": "2025",
+    "image": "/images/case-studies/case-study3.png",
+    "category": "case-study",
+    "aspect": "346 / 224",
+    "href": "/work/dot-portal"
+  },
+  {
+    "id": "ospi",
+    "name": "OSPI",
+    "meta": "CMS",
+    "year": "2025",
+    "image": "/images/project1.png",
+    "category": "project",
+    "aspect": "346 / 259",
+    "href": "#"
+  },
+  {
+    "id": "maria-b",
+    "name": "Maria b",
+    "meta": "Ecommerce",
+    "year": "2025",
+    "image": "/images/project2.png",
+    "category": "project",
+    "aspect": "346 / 260",
+    "href": "#"
+  },
+  {
+    "id": "nishat",
+    "name": "Nishat",
+    "meta": "Retail",
+    "year": "2024",
+    "image": "/images/project3.png",
+    "category": "project",
+    "aspect": "346 / 240",
+    "href": "#"
+  },
+  {
+    "id": "walim",
+    "name": "Walim",
+    "meta": "Ride Hailing",
+    "year": "2024",
+    "image": "/images/project4.png",
+    "category": "project",
+    "aspect": "346 / 259",
+    "href": "#"
+  },
+  {
+    "id": "airkart",
+    "name": "Airkart",
+    "meta": "Ecommerce",
+    "year": "2024",
+    "image": "/images/project5.png",
+    "category": "project",
+    "aspect": "346 / 303",
+    "href": "#"
+  },
+  {
+    "id": "lumu",
+    "name": "Lumu",
+    "meta": "Retail",
+    "year": "2024",
+    "image": "/images/project6.png",
+    "category": "project",
+    "aspect": "346 / 203",
+    "href": "#"
+  },
+  {
+    "id": "booosted",
+    "name": "Booosted",
+    "meta": "AI Chatbot",
+    "year": "2024",
+    "image": "/images/project7.png",
+    "category": "project",
+    "aspect": "346 / 316",
+    "href": "#"
+  },
+  {
+    "id": "squid-erp",
+    "name": "Squid ERP",
+    "meta": "Enterprise",
+    "year": "2023",
+    "image": "/images/project8.png",
+    "category": "project",
+    "aspect": "346 / 224",
+    "href": "#"
+  },
+  {
+    "id": "unampay",
+    "name": "Unampay",
+    "meta": "Ecommerce Solution",
+    "year": "2023",
+    "image": "/images/project9.png",
+    "category": "project",
+    "aspect": "346 / 259",
+    "href": "#"
+  },
+  {
+    "id": "gallo-legal",
+    "name": "Gallo Legal",
+    "meta": "Legal Services",
+    "year": "2023",
+    "image": "/images/project10.png",
+    "category": "project",
+    "aspect": "346 / 271",
+    "href": "#"
+  }
+]

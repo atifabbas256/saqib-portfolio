@@ -1,0 +1,16 @@
+import { Suspense } from "react";
+import AdminLoginPage from "../login-client";
+
+export default function LoginPage() {
+  return (
+    <Suspense
+      fallback={
+        <main className="flex min-h-screen items-center justify-center text-sm text-muted">
+          Loading…
+        </main>
+      }
+    >
+      <AdminLoginPage />
+    </Suspense>
+  );
+}
